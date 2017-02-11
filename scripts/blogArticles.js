@@ -1,7 +1,6 @@
 'use strict';
 
 var rawData = [
-  {"author":"NAME","authorUrl":"URL","title":"TITLE","category":"NEW","body":"<p>TEXT</p>\n","publishedOn":"2017-02-11T01:27:26.767Z","daysAgo":0,"publishStatus":"published 0 days ago"},
   {
     title:       'Bacon Ipsum',
     category:    'food',
